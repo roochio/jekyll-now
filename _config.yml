@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -56,13 +56,13 @@ authors:
         name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpeg
+        picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
         external-image: false
-        picture: assets/images/profile.jpeg
+        picture: assets/images/profile.jpg
         twitter: jamesfoster
 
 # do you want a larger site? change the option below
