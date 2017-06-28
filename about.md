@@ -40,7 +40,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://devpost.com/software/chimehackdemo">Mama</a></li>
+	<li><a href="https://devpost.com/software/oculus-riff">Oculus Riff</a></li>
+	<li><a href="https://devpost.com/software/food-stash">FoodForYou</a></li>
 </ul>
